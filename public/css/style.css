@@ -1,0 +1,642 @@
+:root {
+  --azul: #1B4B8F;
+  --azul-escuro: #123564;
+  --preto: #1a1a1a;
+  --cinza-claro: #f4f4f4;
+  --cinza-borda: #e0e0e0;
+  --texto: #222222;
+  --texto-suave: #6b6b6b;
+  --verde-whatsapp: #25D366;
+  --sombra: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, Helvetica, sans-serif;
+  color: var(--texto);
+  background: #ffffff;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.container {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* ===== HEADER ===== */
+.topo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 16px 20px;
+  max-width: 1240px;
+  margin: 0 auto;
+}
+
+.logo img {
+  height: 55px;
+}
+
+.busca-form {
+  flex: 1;
+  max-width: 620px;
+  display: flex;
+}
+
+.busca-form input {
+  flex: 1;
+  border: 1px solid var(--cinza-borda);
+  border-right: none;
+  padding: 12px 16px;
+  font-size: 15px;
+  border-radius: 4px 0 0 4px;
+  outline: none;
+}
+
+.busca-form input:focus {
+  border-color: var(--azul);
+}
+
+.busca-form button {
+  background: var(--azul);
+  border: none;
+  color: #fff;
+  padding: 0 22px;
+  border-radius: 0 4px 4px 0;
+  font-size: 16px;
+  transition: background 0.2s;
+}
+
+.busca-form button:hover {
+  background: var(--azul-escuro);
+}
+
+.icone-hamburguer {
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 28px;
+  height: 20px;
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+.icone-hamburguer span {
+  display: block;
+  height: 3px;
+  width: 100%;
+  background: var(--preto);
+  border-radius: 2px;
+}
+
+/* ===== NAV CATEGORIAS ===== */
+.nav-categorias {
+  background: var(--preto);
+}
+
+.nav-categorias .container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.nav-categorias a {
+  color: #fff;
+  display: block;
+  padding: 14px 18px;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  white-space: nowrap;
+}
+
+.nav-categorias a:hover,
+.nav-categorias a.ativo {
+  background: var(--azul);
+}
+
+/* ===== BANNER ===== */
+.banner {
+  position: relative;
+  overflow: hidden;
+  background: #f4f4f4;
+}
+
+.banner img {
+  width: 100%;
+  height: auto;
+}
+
+/* ===== FAIXA DE BENEFÍCIOS ===== */
+.beneficios {
+  max-width: 1240px;
+  margin: -40px auto 0;
+  position: relative;
+  background: #fff;
+  box-shadow: var(--sombra);
+  border-radius: 6px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 28px 10px;
+  z-index: 2;
+}
+
+.beneficio {
+  text-align: center;
+  padding: 0 12px;
+}
+
+.beneficio svg,
+.beneficio .icone {
+  width: 40px;
+  height: 40px;
+  margin: 0 auto 10px;
+  stroke: var(--texto-suave);
+}
+
+.beneficio strong {
+  display: block;
+  color: var(--azul);
+  font-size: 14px;
+  letter-spacing: 0.3px;
+}
+
+.beneficio span {
+  display: block;
+  font-size: 12.5px;
+  color: var(--texto-suave);
+  margin-top: 4px;
+}
+
+/* ===== OFERTAS / PRODUTOS ===== */
+.secao-ofertas {
+  max-width: 1240px;
+  margin: 50px auto;
+  padding: 0 20px;
+}
+
+.secao-ofertas h2 {
+  color: var(--azul);
+  font-size: 24px;
+  letter-spacing: 0.5px;
+  margin-bottom: 4px;
+}
+
+.abas-categoria {
+  display: flex;
+  gap: 28px;
+  border-bottom: 1px solid var(--cinza-borda);
+  margin: 18px 0 30px;
+}
+
+.abas-categoria a {
+  padding-bottom: 12px;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  color: #bbbbbb;
+  border-bottom: 3px solid transparent;
+}
+
+.abas-categoria a.ativo {
+  color: var(--azul);
+  border-color: var(--azul);
+}
+
+.grade-produtos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 22px;
+}
+
+.cartao-produto {
+  border: 1px solid var(--cinza-borda);
+  border-radius: 6px;
+  overflow: hidden;
+  background: #fff;
+  transition: box-shadow 0.2s, transform 0.2s;
+  display: flex;
+  flex-direction: column;
+}
+
+.cartao-produto:hover {
+  box-shadow: var(--sombra);
+  transform: translateY(-3px);
+}
+
+.cartao-produto img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  background: #f4f4f4;
+}
+
+.cartao-produto .info {
+  padding: 14px 16px 18px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.cartao-produto h3 {
+  font-size: 14.5px;
+  font-weight: 600;
+  line-height: 1.35;
+  margin: 0 0 10px;
+  color: var(--texto);
+  flex: 1;
+}
+
+.cartao-produto .preco {
+  color: var(--azul);
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.sem-resultados {
+  padding: 60px 0;
+  text-align: center;
+  color: var(--texto-suave);
+}
+
+.aviso-busca {
+  text-align: center;
+  color: var(--texto-suave);
+  font-size: 13.5px;
+  margin: 36px 0 0;
+  padding-top: 20px;
+  border-top: 1px solid var(--cinza-borda);
+}
+
+.item-indisponivel {
+  max-width: 480px;
+  margin: 40px auto;
+  padding: 30px 24px;
+  text-align: center;
+  border: 1px solid var(--cinza-borda);
+  border-radius: 8px;
+  background: #fafafa;
+}
+
+.item-indisponivel p {
+  color: var(--texto-suave);
+  font-size: 14.5px;
+  line-height: 1.5;
+  margin: 0 0 18px;
+}
+
+.item-indisponivel .botao-whatsapp {
+  justify-content: center;
+  width: 100%;
+}
+
+/* ===== BOTÃO FLUTUANTE WHATSAPP ===== */
+.whatsapp-flutuante {
+  position: fixed;
+  right: 24px;
+  bottom: 24px;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--verde-whatsapp);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  z-index: 50;
+}
+
+.whatsapp-flutuante svg {
+  width: 30px;
+  height: 30px;
+  fill: #fff;
+}
+
+/* ===== FOOTER ===== */
+.rodape {
+  background: var(--preto);
+  color: #cccccc;
+  margin-top: 60px;
+  padding: 40px 0 20px;
+  font-size: 14px;
+}
+
+.rodape .container {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 30px;
+}
+
+.rodape h4 {
+  color: #fff;
+  margin: 0 0 14px;
+  font-size: 15px;
+}
+
+.rodape ul li {
+  margin-bottom: 8px;
+}
+
+.rodape .copy {
+  text-align: center;
+  border-top: 1px solid #333;
+  margin-top: 30px;
+  padding-top: 16px;
+  font-size: 12.5px;
+  color: #888;
+}
+
+/* ===== PÁGINA DE PRODUTO ===== */
+.trilha {
+  max-width: 1240px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+  font-size: 13.5px;
+  color: var(--texto-suave);
+}
+
+.trilha a {
+  color: var(--texto-suave);
+}
+
+.trilha a:hover {
+  color: var(--azul);
+}
+
+.detalhe-produto {
+  max-width: 1240px;
+  margin: 20px auto 60px;
+  padding: 0 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+}
+
+.galeria-produto img {
+  width: 100%;
+  border: 1px solid var(--cinza-borda);
+  border-radius: 6px;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  background: #f4f4f4;
+}
+
+.info-produto h1 {
+  font-size: 26px;
+  margin: 0 0 14px;
+  line-height: 1.3;
+}
+
+.info-produto .preco-grande {
+  color: #2e9e4f;
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+.info-produto .parcelamento {
+  color: var(--texto-suave);
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.info-produto .part-number {
+  display: inline-block;
+  background: #eeeeee;
+  color: #555;
+  border-radius: 4px;
+  padding: 6px 10px;
+  font-size: 12.5px;
+  margin-bottom: 20px;
+}
+
+.info-produto hr {
+  border: none;
+  border-top: 1px solid var(--cinza-borda);
+  margin: 22px 0;
+}
+
+.info-produto .contato-vendedor p {
+  font-size: 14px;
+  color: var(--texto-suave);
+  margin-bottom: 12px;
+}
+
+.botoes-contato {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
+}
+
+.botao {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 18px;
+  border-radius: 5px;
+  border: none;
+  font-size: 14.5px;
+  font-weight: 600;
+}
+
+.botao-whatsapp {
+  background: var(--verde-whatsapp);
+  color: #fff;
+}
+
+.botao-whatsapp:hover {
+  background: #1ebb59;
+}
+
+.botao-desativado {
+  background: #e4e4e4;
+  color: #999;
+  cursor: not-allowed;
+}
+
+.calculo-frete {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 24px;
+}
+
+.calculo-frete input {
+  border: 1px solid var(--cinza-borda);
+  border-radius: 4px;
+  padding: 12px 14px;
+  font-size: 14px;
+  width: 160px;
+}
+
+.calculo-frete button {
+  background: #e4e4e4;
+  color: #444;
+  border: none;
+  border-radius: 4px;
+  padding: 0 18px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.calculo-frete button:hover {
+  background: #d6d6d6;
+}
+
+#resultado-frete {
+  font-size: 13.5px;
+  color: var(--texto-suave);
+  margin-bottom: 20px;
+}
+
+.meta-produto {
+  font-size: 13px;
+  color: var(--texto-suave);
+}
+
+.meta-produto span {
+  margin-right: 18px;
+}
+
+/* ===== PÁGINA DE RESULTADOS ===== */
+.cabecalho-resultados {
+  max-width: 1240px;
+  margin: 30px auto 20px;
+  padding: 0 20px;
+}
+
+.cabecalho-resultados h1 {
+  font-size: 22px;
+  margin-bottom: 4px;
+}
+
+.cabecalho-resultados p {
+  color: var(--texto-suave);
+  font-size: 14px;
+}
+
+.lista-resultados {
+  max-width: 1240px;
+  margin: 0 auto 60px;
+  padding: 0 20px;
+}
+
+/* ===== MENU MOBILE ===== */
+.menu-mobile {
+  display: none;
+  background: var(--preto);
+  flex-direction: column;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 40;
+}
+
+.menu-mobile.aberto {
+  display: flex;
+}
+
+.menu-mobile a {
+  color: #fff;
+  padding: 14px 20px;
+  border-top: 1px solid #333;
+  font-size: 14.5px;
+  font-weight: 600;
+}
+
+.menu-mobile a:hover {
+  background: var(--azul);
+}
+
+/* ===== RESPONSIVO ===== */
+@media (max-width: 900px) {
+  .grade-produtos {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .beneficios {
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 22px;
+  }
+
+  .detalhe-produto {
+    grid-template-columns: 1fr;
+    gap: 26px;
+  }
+
+  .rodape .container {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+}
+
+@media (max-width: 768px) {
+  .nav-categorias {
+    display: none;
+  }
+
+  .icone-hamburguer {
+    display: flex;
+    order: -1;
+  }
+
+  .header-wrapper {
+    position: relative;
+  }
+
+  .topo {
+    flex-wrap: wrap;
+  }
+
+  .busca-form {
+    order: 3;
+    max-width: 100%;
+    width: 100%;
+  }
+}
+
+@media (max-width: 520px) {
+  .grade-produtos {
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+  }
+
+  .cartao-produto h3 {
+    font-size: 13px;
+  }
+
+  .beneficios {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .secao-ofertas h2 {
+    font-size: 20px;
+  }
+}

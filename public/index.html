@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Almeida Autopeças e Desmanche</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+  <div class="header-wrapper">
+    <header class="topo">
+      <a class="logo" href="/index.html">
+        <img src="/img/logo.png" alt="Almeida Autopeças e Desmanche">
+      </a>
+
+      <form class="busca-form" action="/resultados.html" method="get">
+        <input type="text" name="q" placeholder="Buscar produtos" autocomplete="off">
+        <button type="submit" aria-label="Buscar">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2">
+            <circle cx="11" cy="11" r="7"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </button>
+      </form>
+
+      <button class="icone-hamburguer" id="botao-hamburguer" aria-label="Abrir menu">
+        <span></span><span></span><span></span>
+      </button>
+    </header>
+
+    <nav class="nav-categorias">
+      <div class="container" id="nav-categorias-lista"></div>
+    </nav>
+
+    <nav class="menu-mobile" id="menu-mobile"></nav>
+  </div>
+
+  <section class="banner">
+    <img src="/img/banner.png" alt="Auto peças de carros importados">
+  </section>
+
+  <div class="container">
+    <section class="beneficios">
+      <div class="beneficio">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><rect x="1" y="7" width="15" height="10"></rect><path d="M16 10h4l3 3v4h-7z"></path><circle cx="6" cy="19" r="2"></circle><circle cx="18" cy="19" r="2"></circle></svg>
+        <strong>ENTREGA EXPRESSA</strong>
+        <span>*Confira Política De Envios</span>
+      </div>
+      <div class="beneficio">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><rect x="2" y="5" width="20" height="14" rx="2"></rect><line x1="2" y1="10" x2="22" y2="10"></line></svg>
+        <strong>PAGUE EM ATÉ 12X</strong>
+        <span>No Cartão De Crédito</span>
+      </div>
+      <div class="beneficio">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><circle cx="12" cy="12" r="10"></circle><line x1="8" y1="16" x2="16" y2="8"></line><circle cx="8.5" cy="8.5" r="0.6"></circle><circle cx="15.5" cy="15.5" r="0.6"></circle></svg>
+        <strong>DESCONTOS</strong>
+        <span>Todo O Site Com Descontos</span>
+      </div>
+      <div class="beneficio">
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="1.6"><path d="M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6z"></path><path d="M9 12l2 2 4-4"></path></svg>
+        <strong>COMPRA SEGURA</strong>
+        <span>Empresa Licenciada</span>
+      </div>
+    </section>
+
+    <section class="secao-ofertas">
+      <h2>NOSSAS OFERTAS</h2>
+      <div class="abas-categoria">
+        <a href="/resultados.html" class="ativo">PRODUTOS</a>
+        <a href="/resultados.html?categoria=Transmiss%C3%A3o">TRANSMISSÃO</a>
+        <a href="/resultados.html?categoria=Motor">MOTOR</a>
+      </div>
+
+      <div class="grade-produtos" id="grade-ofertas">
+        <p class="sem-resultados">Carregando produtos...</p>
+      </div>
+
+      <p class="aviso-busca">Busque o item que você procure na barra de pesquisa</p>
+    </section>
+  </div>
+
+  <footer class="rodape">
+    <div class="container">
+      <div>
+        <img src="./img/logo.png" alt="">
+        <p>Auto peças de carros importados com procedência, qualidade e confiança. </p>
+      </div>
+      <div>
+        <h4>Categorias</h4>
+        <ul>
+          <li><a href="/resultados.html?categoria=Motor">Motor</a></li>
+          <li><a href="/resultados.html?categoria=Transmiss%C3%A3o">Transmissão</a></li>
+          <li><a href="/resultados.html?categoria=El%C3%A9trica">Elétrica</a></li>
+          <li><a href="/resultados.html?categoria=Ilumina%C3%A7%C3%A3o">Iluminação</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Atendimento</h4>
+        <ul>
+          <li><a href="/sobre.html">Sobre Nós</a></li>
+          <li><a href="/contato.html">Contato</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="copy"><p>
+      ADRIANO J. PRETI - AUTOPECAS 2026 CREATED BY VAAPT
+    </p>
+  <p>ADRIANO J. PRETI - AUTOPECAS é uma empresa inscrita no CNPJ 07.751.572/0001-51
+</p></div>
+  </footer>
+
+  <a class="whatsapp-flutuante" href="https://wa.me/5511985577002" target="_blank" rel="noopener" aria-label="Falar no WhatsApp">
+    <svg viewBox="0 0 32 32"><path d="M16.001 3C9.373 3 4 8.373 4 15c0 2.362.687 4.564 1.872 6.417L4 29l7.77-1.84A11.93 11.93 0 0 0 16 27c6.628 0 12-5.373 12-12S22.629 3 16.001 3zm0 21.75c-1.94 0-3.75-.55-5.28-1.5l-.38-.23-4.62 1.09 1.11-4.5-.25-.4A9.7 9.7 0 0 1 5.25 15c0-5.93 4.82-10.75 10.75-10.75S26.75 9.07 26.75 15 21.93 24.75 16 24.75zm5.98-8.02c-.32-.16-1.9-.94-2.2-1.04-.29-.11-.5-.16-.72.16-.21.32-.82 1.04-1 1.25-.19.21-.37.24-.69.08-.32-.16-1.34-.5-2.55-1.58-.94-.84-1.58-1.87-1.76-2.19-.19-.32-.02-.49.14-.65.14-.14.32-.37.48-.55.16-.19.21-.32.32-.53.11-.21.05-.4-.03-.56-.08-.16-.72-1.75-1-2.4-.26-.63-.53-.54-.72-.55h-.61c-.21 0-.56.08-.85.4-.29.32-1.11 1.08-1.11 2.63s1.14 3.05 1.3 3.26c.16.21 2.24 3.43 5.43 4.81.76.33 1.35.53 1.81.67.76.24 1.45.21 2 .13.61-.09 1.9-.78 2.17-1.53.27-.75.27-1.4.19-1.53-.08-.13-.29-.21-.61-.37z"/></svg>
+  </a>
+
+  <script src="/js/comum.js"></script>
+  <script src="/js/home.js"></script>
+</body>
+</html>
