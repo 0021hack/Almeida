@@ -1,0 +1,1245 @@
+[
+  {
+    "id": 1,
+    "nome": "Motor Parcial Ix35 Flex 2.0 Automático 2013",
+    "categoria": "Motor",
+    "preco": 16999.0,
+    "partNumber": "123IX35",
+    "sku": "168820",
+    "imagem": "/img/produtos/motor-ix35.png",
+    "descricao": "Motor parcial em ótimo estado, testado e com procedência garantida. Compatível com Hyundai Ix35 Flex 2.0 automático 2013."
+  },
+  {
+    "id": 2,
+    "nome": "Motor Parcial Jetta Gli 2.0 Turbo 231cv 2022 2023 2024",
+    "categoria": "Motor",
+    "preco": 42779.07,
+    "partNumber": "231JGLI",
+    "sku": "168821",
+    "imagem": "/img/produtos/motor-jetta.png",
+    "descricao": "Motor parcial 2.0 turbo de alta performance, retirado de veículo em bom estado de conservação."
+  },
+  {
+    "id": 3,
+    "nome": "Motor Parcial Vw Tcross Tiguan Tsi 1.4 Flex 2018 á 2023",
+    "categoria": "Motor",
+    "preco": 8799.0,
+    "partNumber": "114TCTG",
+    "sku": "168822",
+    "imagem": "/img/produtos/motor-tcross.png",
+    "descricao": "Motor parcial TSI 1.4 flex, revisado e pronto para instalação."
+  },
+  {
+    "id": 4,
+    "nome": "Motor Parcial Volkswagen Tcross Tsi 1.4 2023",
+    "categoria": "Motor",
+    "preco": 10229.07,
+    "partNumber": "114TCTS",
+    "sku": "168823",
+    "imagem": "/img/produtos/motor-tcross2.png",
+    "descricao": "Motor parcial TSI 1.4 para Volkswagen T-Cross, ano 2023."
+  },
+  {
+    "id": 5,
+    "nome": "Motor Audi A3 2.0 Hibdrido 204cv 2023 / 2024 17.213 Km",
+    "categoria": "Motor",
+    "preco": 36999.9,
+    "partNumber": "100HB20",
+    "sku": "168824",
+    "imagem": "/img/produtos/motor-a3.png",
+    "descricao": "Motor Audi A3, 2.0 hibrido, baixa quilometragem."
+  },
+  {
+    "id": 6,
+    "nome": "Motor Arranque Toyota Corolla 1.8 2010 281000d190",
+    "categoria": "Motor",
+    "preco": 599.0,
+    "partNumber": "281000D190",
+    "sku": "207725",
+    "imagem": "/img/produtos/motor-corolla.png",
+    "descricao": "Motor Arranque 1.8 Dynamic Force, compatível com Toyota Corolla 2010."
+  },
+  {
+    "id": 7,
+    "nome": "Câmbio Automático Cvt Corolla 2018 á 2022",
+    "categoria": "Transmissão",
+    "preco": 12890.0,
+    "partNumber": "CVTCOR",
+    "sku": "168830",
+    "imagem": "/img/produtos/cambio-corolla.png",
+    "descricao": "Câmbio automático CVT revisado, compatível com Toyota Corolla 2018 a 2022."
+  },
+  {
+    "id": 8,
+    "nome": "Câmbio Automático 7 Marchas Jetta 2.0 Tsi",
+    "categoria": "Transmissão",
+    "preco": 20999.0,
+    "partNumber": "DSGJET",
+    "sku": "168831",
+    "imagem": "/img/produtos/cambio-jetta.png",
+    "descricao": "Câmbio automático DSG de 7 marchas para Jetta 2.0 TSI."
+  },
+  {
+    "id": 9,
+    "nome": "Câmbio Manual 5 Marchas Gol G5 1.0",
+    "categoria": "Transmissão",
+    "preco": 4600.0,
+    "partNumber": "MAN5GOL",
+    "sku": "168832",
+    "imagem": "/img/produtos/cambio-gol.png",
+    "descricao": "Câmbio manual de 5 marchas, compatível com Volkswagen Gol G5 1.0."
+  },
+  {
+    "id": 11,
+    "nome": "Módulo de Vidro Elétrico Onix 2015 á 2019",
+    "categoria": "Elétrica",
+    "preco": 340.0,
+    "partNumber": "MVEONIX",
+    "sku": "168840",
+    "imagem": "/img/produtos/vidro-onix.png",
+    "descricao": "Módulo de vidro elétrico original, compatível com Chevrolet Onix 2015 a 2019."
+  },
+  {
+    "id": 12,
+    "nome": "Chicote Elétrico Motor Corolla 2.0",
+    "categoria": "Elétrica",
+    "preco": 890.0,
+    "partNumber": "CHCOR20",
+    "sku": "168841",
+    "imagem": "/img/produtos/chicote-corolla.png",
+    "descricao": "Chicote elétrico completo do motor para Toyota Corolla 2.0."
+  },
+  {
+    "id": 13,
+    "nome": "Bateria 60ah Moura Selada Original",
+    "categoria": "Elétrica",
+    "preco": 549.9,
+    "partNumber": "BAT60AH",
+    "sku": "168842",
+    "imagem": "/img/produtos/bateria-moura.png",
+    "descricao": "Bateria automotiva Moura selada de 60 amperes, ideal para a maioria dos veículos de passeio."
+  },
+  {
+    "id": 14,
+    "nome": "Alternador Hb20 1.0 2014 a 2015",
+    "categoria": "Elétrica",
+    "preco": 780.0,
+    "partNumber": "ALTHB20",
+    "sku": "168843",
+    "imagem": "/img/produtos/alternador.png",
+    "descricao": "Alternador original, compatível com Hyundai HB20 1.0 2014 a 2015."
+  },
+  {
+    "id": 15,
+    "nome": "Farol Dianteiro Led Corolla 2020 á 2022 Lado Direito",
+    "categoria": "Iluminação",
+    "preco": 1290.0,
+    "partNumber": "FARCORD",
+    "sku": "168850",
+    "imagem": "/img/produtos/farol.png",
+    "descricao": "Farol dianteiro em LED, lado direito, compatível com Toyota Corolla 2020 a 2022."
+  },
+  {
+    "id": 16,
+    "nome": "Lanterna Traseira Onix 2019 á 2022 Lado Esquerdo",
+    "categoria": "Iluminação",
+    "preco": 420.0,
+    "partNumber": "LANONIE",
+    "sku": "168851",
+    "imagem": "/img/produtos/farol-onix.png",
+    "descricao": "Lanterna traseira original, lado esquerdo, compatível com Chevrolet Onix 2019 a 2022."
+  },
+  {
+    "id": 17,
+    "nome": "Farol de Milha Jeep Compass 2018",
+    "categoria": "Iluminação",
+    "preco": 350.0,
+    "partNumber": "FMCOMP",
+    "sku": "168852",
+    "imagem": "/img/produtos/milha-compass.png",
+    "descricao": "Farol de milha original, compatível com Jeep Compass 2018."
+  },
+  {
+    "id": 18,
+    "nome": "Módulo de Câmbio Automático Tiguan 2012 a 2017",
+    "categoria": "Módulos",
+    "preco": 2390.0,
+    "partNumber": "MODTIG",
+    "sku": "168860",
+    "imagem": "/img/produtos/cambio-tiguan.png",
+    "descricao": "Módulo eletrônico de câmbio automático para Volkswagen Tiguan 2012 a 2017."
+  },
+  {
+    "id": 19,
+    "nome": "Módulo de Injeção Eletrônica Hb20 1.6 Flex",
+    "categoria": "Módulos",
+    "preco": 1190.0,
+    "partNumber": "MIEHB16",
+    "sku": "168861",
+    "imagem": "/img/produtos/injecao-hb20.png",
+    "descricao": "Módulo de injeção eletrônica original para Hyundai HB20 1.6 flex."
+  },
+  {
+    "id": 20,
+    "nome": "Central Multimídia Original Corolla 2020",
+    "categoria": "Módulos",
+    "preco": 1690.0,
+    "partNumber": "CMCOR20",
+    "sku": "168862",
+    "imagem": "/img/produtos/multimidia.png",
+    "descricao": "Central multimídia original, compatível com Toyota Corolla 2020."
+  },
+  {
+    "id": 21,
+    "nome": "Acabamento Parachoque Dianteiro Onix 2019",
+    "categoria": "Carroceria",
+    "preco": 980.0,
+    "partNumber": "PCDONIX",
+    "sku": "168870",
+    "imagem": "/img/produtos/parachoque-2019.png",
+    "descricao": "Para-choque dianteiro original, compatível com Chevrolet Onix 2019"
+  },
+  {
+    "id": 22,
+    "nome": "Porta Dianteira Esquerda Hb20 2019 á 2022",
+    "categoria": "Carroceria",
+    "preco": 1450.0,
+    "partNumber": "PDEHB20",
+    "sku": "168871",
+    "imagem": "/img/produtos/PDE-2019.png",
+    "descricao": "Porta dianteira esquerda original, compatível com Hyundai HB20 2019 a 2022."
+  },
+  {
+    "id": 23,
+    "nome": "Capô Corolla 2016 á 2019",
+    "categoria": "Carroceria",
+    "preco": 1190.0,
+    "partNumber": "CAPCOR",
+    "sku": "168872",
+    "imagem": "/img/produtos/capo-corolla.png",
+    "descricao": "Capô original, compatível com Toyota Corolla 2016 a 2019."
+  },
+  {
+    "id": 24,
+    "nome": "Retrovisor Elétrico Jetta 2017 á 2021 Lado Direito",
+    "categoria": "Acabamento",
+    "preco": 620.0,
+    "partNumber": "RETJETD",
+    "sku": "168880",
+    "imagem": "/img/produtos/RJE2011.png",
+    "descricao": "Retrovisor elétrico original, lado direito, compatível com Volkswagen Jetta 2017 a 2021."
+  },
+  {
+    "id": 25,
+    "nome": "Banco Dianteiro Corolla 2020 á 2023 Lado Motorista",
+    "categoria": "Acabamento",
+    "preco": 890.0,
+    "partNumber": "BANCORM",
+    "sku": "168881",
+    "imagem": "/img/produtos/BC2020.png",
+    "descricao": "Banco dianteiro original, lado motorista, compatível com Toyota Corolla 2020 a 2023."
+  },
+  {
+    "id": 26,
+    "nome": "Volante Multifuncional Tcross 2021 á 2023",
+    "categoria": "Acabamento",
+    "preco": 540.0,
+    "partNumber": "VOLTC21",
+    "sku": "168882",
+    "imagem": "/img/produtos/V-tcross.png",
+    "descricao": "Volante multifuncional original, compatível com Volkswagen T-Cross 2021 a 2023."
+  },
+  {
+    "id": 27,
+    "nome": "Motor Completo Honda Civic 2.0 16v 2018 á 2021",
+    "categoria": "Motor",
+    "preco": 22990.0,
+    "partNumber": "200CIVC",
+    "sku": "168883",
+    "imagem": "/img/produtos/motor-jetta.png",
+    "descricao": "Motor completo, testado e revisado, compatível com Honda Civic 2.0 16V 2018 a 2021."
+  },
+  {
+    "id": 28,
+    "nome": "Motor Parcial Chevrolet Onix 1.0 Turbo 2020 á 2023",
+    "categoria": "Motor",
+    "preco": 13490.0,
+    "partNumber": "100ONIT",
+    "sku": "168884",
+    "imagem": "/img/produtos/motor-onix.png",
+    "descricao": "Motor parcial 1.0 turbo, procedência garantida, compatível com Chevrolet Onix 2020 a 2023."
+  },
+  {
+    "id": 29,
+    "nome": "Motor Completo Ford Ka 1.5 2018 á 2021",
+    "categoria": "Motor",
+    "preco": 9890.0,
+    "partNumber": "150FKA",
+    "sku": "168885",
+    "imagem": "/img/produtos/motor-ka.png",
+    "descricao": "Motor completo 1.5, revisado e pronto para instalação, compatível com Ford Ka 2018 a 2021."
+  },
+  {
+    "id": 30,
+    "nome": "Motor Parcial Nissan Kicks 1.6 2017 á 2020",
+    "categoria": "Motor",
+    "preco": 11290.0,
+    "partNumber": "160KICK",
+    "sku": "168886",
+    "imagem": "/img/produtos/motor-kicks.png",
+    "descricao": "Motor parcial 1.6, em ótimo estado de conservação, compatível com Nissan Kicks 2017 a 2020."
+  },
+  {
+    "id": 31,
+    "nome": "Motor Completo Fiat Toro 2.0 Diesel 2019 á 2022",
+    "categoria": "Motor",
+    "preco": 28900.0,
+    "partNumber": "200TORD",
+    "sku": "168887",
+    "imagem": "/img/produtos/motor-toro.png",
+    "descricao": "Motor completo 2.0 turbo diesel, testado, compatível com Fiat Toro 2019 a 2022."
+  },
+  {
+    "id": 32,
+    "nome": "Motor Parcial Renault Duster 1.6 2016 á 2019",
+    "categoria": "Motor",
+    "preco": 8490.0,
+    "partNumber": "160DUST",
+    "sku": "168888",
+    "imagem": "/img/produtos/motor-duster.png",
+    "descricao": "Motor parcial 1.6, com procedência garantida, compatível com Renault Duster 2016 a 2019."
+  },
+  {
+    "id": 33,
+    "nome": "Câmbio Automático Cvt Nissan Kicks 2017 á 2021",
+    "categoria": "Transmissão",
+    "preco": 10990.0,
+    "partNumber": "CVTKICK",
+    "sku": "168889",
+    "imagem": "/img/produtos/cambio-kicks.png",
+    "descricao": "Câmbio automático CVT revisado, compatível com Nissan Kicks 2017 a 2021."
+  },
+  {
+    "id": 34,
+    "nome": "Câmbio Manual 6 Marchas Civic 2.0 2018 á 2021",
+    "categoria": "Transmissão",
+    "preco": 6890.0,
+    "partNumber": "MAN6CIV",
+    "sku": "168890",
+    "imagem": "/img/produtos/cambio-civic.png",
+    "descricao": "Câmbio manual de 6 marchas, compatível com Honda Civic 2.0 2018 a 2021."
+  },
+  {
+    "id": 35,
+    "nome": "Câmbio Automático 6 Marchas Ford Ka 1.5",
+    "categoria": "Transmissão",
+    "preco": 7490.0,
+    "partNumber": "AUT6FKA",
+    "sku": "168891",
+    "imagem": "/img/produtos/cambio-tiguan.png",
+    "descricao": "Câmbio automático de 6 marchas, revisado, compatível com Ford Ka 1.5."
+  },
+  {
+    "id": 36,
+    "nome": "Câmbio Automatizado Onix 1.0 Turbo 2020 á 2023",
+    "categoria": "Transmissão",
+    "preco": 9290.0,
+    "partNumber": "AUTZONI",
+    "sku": "168892",
+    "imagem": "/img/produtos/cambio-civic.png",
+    "descricao": "Câmbio automatizado, compatível com Chevrolet Onix 1.0 Turbo 2020 a 2023."
+  },
+  {
+    "id": 37,
+    "nome": "Câmbio Manual 5 Marchas Duster 1.6 2016 á 2019",
+    "categoria": "Transmissão",
+    "preco": 4990.0,
+    "partNumber": "MAN5DUS",
+    "sku": "168893",
+    "imagem": "/img/produtos/cambio-gol.png",
+    "descricao": "Câmbio manual de 5 marchas, compatível com Renault Duster 1.6 2016 a 2019."
+  },
+  {
+    "id": 38,
+    "nome": "Câmbio Automático 9 Marchas Toro Diesel 2019 á 2022",
+    "categoria": "Transmissão",
+    "preco": 15990.0,
+    "partNumber": "AUT9TOR",
+    "sku": "168894",
+    "imagem": "/img/produtos/cambio-toro.png",
+    "descricao": "Câmbio automático de 9 marchas, compatível com Fiat Toro Diesel 2019 a 2022."
+  },
+  {
+    "id": 39,
+    "nome": "Módulo de Vidro Elétrico Civic 2018 á 2021",
+    "categoria": "Elétrica",
+    "preco": 390.0,
+    "partNumber": "MVECIV",
+    "sku": "168895",
+    "imagem": "/img/produtos/v-civic.png",
+    "descricao": "Módulo de vidro elétrico original, compatível com Honda Civic 2018 a 2021."
+  },
+  {
+    "id": 40,
+    "nome": "Chicote Elétrico Motor Onix Turbo 1.0",
+    "categoria": "Elétrica",
+    "preco": 720.0,
+    "partNumber": "CHONIT",
+    "sku": "168896",
+    "imagem": "/img/produtos/chicote-corolla.png",
+    "descricao": "Chicote elétrico completo do motor, compatível com Chevrolet Onix 1.0 Turbo."
+  },
+  {
+    "id": 41,
+    "nome": "Bateria 70ah Heliar Selada Original",
+    "categoria": "Elétrica",
+    "preco": 619.9,
+    "partNumber": "BAT70AH",
+    "sku": "168897",
+    "imagem": "/img/produtos/heliar.png",
+    "descricao": "Bateria automotiva Heliar selada de 70 amperes, ideal para veículos de médio e grande porte."
+  },
+  {
+    "id": 42,
+    "nome": "Alternador Duster 1.6 2016 á 2019",
+    "categoria": "Elétrica",
+    "preco": 840.0,
+    "partNumber": "ALTDUST",
+    "sku": "168898",
+    "imagem": "/img/produtos/alternador-duster.png",
+    "descricao": "Alternador original, compatível com Renault Duster 1.6 2016 a 2019."
+  },
+  {
+    "id": 43,
+    "nome": "Motor de Arranque Kicks 1.6 2017 á 2020",
+    "categoria": "Elétrica",
+    "preco": 650.0,
+    "partNumber": "MAKICK",
+    "sku": "168899",
+    "imagem": "/img/produtos/arranque-kicks.png",
+    "descricao": "Motor de arranque original, compatível com Nissan Kicks 1.6 2017 a 2020."
+  },
+  {
+    "id": 44,
+    "nome": "Central Elétrica Toro Diesel 2019 á 2022",
+    "categoria": "Elétrica",
+    "preco": 1290.0,
+    "partNumber": "CETORD",
+    "sku": "168900",
+    "imagem": "/img/produtos/central-toro.png",
+    "descricao": "Central elétrica original, compatível com Fiat Toro Diesel 2019 a 2022."
+  },
+  {
+    "id": 45,
+    "nome": "Farol Dianteiro Led Civic 2018 á 2021 Lado Esquerdo",
+    "categoria": "Iluminação",
+    "preco": 1390.0,
+    "partNumber": "FARCIVE",
+    "sku": "168901",
+    "imagem": "/img/produtos/FARCIVE.png",
+    "descricao": "Farol dianteiro em LED, lado esquerdo, compatível com Honda Civic 2018 a 2021."
+  },
+  {
+    "id": 46,
+    "nome": "Lanterna Traseira Kicks 2017 á 2020 Lado Direito",
+    "categoria": "Iluminação",
+    "preco": 450.0,
+    "partNumber": "LANKICD",
+    "sku": "168902",
+    "imagem": "/img/produtos/LANKICD.png",
+    "descricao": "Lanterna traseira original, lado direito, compatível com Nissan Kicks 2017 a 2020."
+  },
+  {
+    "id": 47,
+    "nome": "Farol de Milha Duster 2016 á 2019",
+    "categoria": "Iluminação",
+    "preco": 320.0,
+    "partNumber": "FMDUST",
+    "sku": "168903",
+    "imagem": "/img/produtos/milha-kicks.png",
+    "descricao": "Farol de milha original, compatível com Renault Duster 2016 a 2019."
+  },
+  {
+    "id": 48,
+    "nome": "Farol Dianteiro Halógeno Onix 2020 á 2023 Lado Direito",
+    "categoria": "Iluminação",
+    "preco": 690.0,
+    "partNumber": "FARONID",
+    "sku": "168904",
+    "imagem": "/img/produtos/FARONID.png",
+    "descricao": "Farol dianteiro halógeno, lado direito, compatível com Chevrolet Onix 2020 a 2023."
+  },
+  {
+    "id": 49,
+    "nome": "Lanterna Traseira Led Toro 2019 á 2022 Lado Esquerdo",
+    "categoria": "Iluminação",
+    "preco": 790.0,
+    "partNumber": "LANTORE",
+    "sku": "168905",
+    "imagem": "/img/produtos/LANTORE.png",
+    "descricao": "Lanterna traseira em LED, lado esquerdo, compatível com Fiat Toro 2019 a 2022."
+  },
+  {
+    "id": 50,
+    "nome": "Farolete de Neblina Ford Ka 2018 á 2021",
+    "categoria": "Iluminação",
+    "preco": 280.0,
+    "partNumber": "FNFKA",
+    "sku": "168906",
+    "imagem": "/img/produtos/FNFKA.png",
+    "descricao": "Farolete de neblina original, compatível com Ford Ka 2018 a 2021."
+  },
+  {
+    "id": 51,
+    "nome": "Módulo de Câmbio Automático Kicks 2017 á 2021",
+    "categoria": "Módulos",
+    "preco": 2190.0,
+    "partNumber": "MODKICK",
+    "sku": "168907",
+    "imagem": "/img/produtos/MODKICK.png",
+    "descricao": "Módulo eletrônico de câmbio automático, compatível com Nissan Kicks 2017 a 2021."
+  },
+  {
+    "id": 52,
+    "nome": "Módulo de Injeção Eletrônica Onix Turbo 1.0",
+    "categoria": "Módulos",
+    "preco": 1390.0,
+    "partNumber": "MIEONIT",
+    "sku": "168908",
+    "imagem": "/img/produtos/MIEONIT.png",
+    "descricao": "Módulo de injeção eletrônica original, compatível com Chevrolet Onix 1.0 Turbo."
+  },
+  {
+    "id": 53,
+    "nome": "Central Multimídia Original Civic 2018 á 2021",
+    "categoria": "Módulos",
+    "preco": 1890.0,
+    "partNumber": "CMCIV18",
+    "sku": "168909",
+    "imagem": "/img/produtos/multimidia.png",
+    "descricao": "Central multimídia original, compatível com Honda Civic 2018 a 2021."
+  },
+  {
+    "id": 54,
+    "nome": "Módulo de Vidro Elétrico Duster 2016 á 2019",
+    "categoria": "Módulos",
+    "preco": 360.0,
+    "partNumber": "MVEDUST",
+    "sku": "168910",
+    "imagem": "/img/produtos/MVEDUST.png",
+    "descricao": "Módulo de vidro elétrico original, compatível com Renault Duster 2016 a 2019."
+  },
+  {
+    "id": 55,
+    "nome": "Módulo de Airbag Toro 2019 á 2022",
+    "categoria": "Módulos",
+    "preco": 2490.0,
+    "partNumber": "MODAIRT",
+    "sku": "168911",
+    "imagem": "/img/produtos/MODAIRT.png",
+    "descricao": "Módulo de airbag original, compatível com Fiat Toro 2019 a 2022."
+  },
+  {
+    "id": 56,
+    "nome": "Central de Freios Abs Ford Ka 2018 á 2021",
+    "categoria": "Módulos",
+    "preco": 1590.0,
+    "partNumber": "CFABSKA",
+    "sku": "168912",
+    "imagem": "/img/produtos/CFABSKA.png",
+    "descricao": "Central de freios ABS original, compatível com Ford Ka 2018 a 2021."
+  },
+  {
+    "id": 57,
+    "nome": "Acabamento Parachoque Traseiro Civic 2018 á 2021",
+    "categoria": "Carroceria",
+    "preco": 1090.0,
+    "partNumber": "PCTCIV",
+    "sku": "168913",
+    "imagem": "/img/produtos/PCTCIV.png",
+    "descricao": "acabamento para-choque traseiro original, compatível com Honda Civic 2018 a 2021."
+  },
+  {
+    "id": 58,
+    "nome": "Porta Dianteira Direita Onix 2020 á 2023",
+    "categoria": "Carroceria",
+    "preco": 1520.0,
+    "partNumber": "PDDONIX",
+    "sku": "168914",
+    "imagem": "/img/produtos/PDDONIX.png",
+    "descricao": "Porta dianteira direita original, compatível com Chevrolet Onix 2020 a 2023."
+  },
+  {
+    "id": 59,
+    "nome": "Capô Kicks 2017 á 2020",
+    "categoria": "Carroceria",
+    "preco": 1350.0,
+    "partNumber": "CAPKICK",
+    "sku": "168915",
+    "imagem": "/img/produtos/CAPKICK.png",
+    "descricao": "Capô original, compatível com Nissan Kicks 2017 a 2020."
+  },
+  {
+    "id": 60,
+    "nome": "Paralama Dianteiro Esquerdo Duster 2016 á 2019",
+    "categoria": "Carroceria",
+    "preco": 690.0,
+    "partNumber": "PARDUST",
+    "sku": "168916",
+    "imagem": "/img/produtos/PARDUST.png",
+    "descricao": "Paralama dianteiro esquerdo original, compatível com Renault Duster 2016 a 2019."
+  },
+  {
+    "id": 61,
+    "nome": "Tampa Traseira Toro 2019 á 2022",
+    "categoria": "Carroceria",
+    "preco": 1790.0,
+    "partNumber": "TTTORO",
+    "sku": "168917",
+    "imagem": "/img/produtos/TTTORO.png",
+    "descricao": "Tampa traseira original, compatível com Fiat Toro 2019 a 2022."
+  },
+  {
+    "id": 62,
+    "nome": "Grade Dianteira Ford Ka 2018 á 2021",
+    "categoria": "Carroceria",
+    "preco": 420.0,
+    "partNumber": "GDFKA",
+    "sku": "168918",
+    "imagem": "/img/produtos/GDFKA.png",
+    "descricao": "Grade dianteira original, compatível com Ford Ka 2018 a 2021."
+  },
+  {
+    "id": 63,
+    "nome": "Retrovisor Elétrico Onix 2020 á 2023 Lado Esquerdo",
+    "categoria": "Acabamento",
+    "preco": 590.0,
+    "partNumber": "RETONIE",
+    "sku": "168919",
+    "imagem": "/img/produtos/RETONIE.png",
+    "descricao": "Retrovisor elétrico original, lado esquerdo, compatível com Chevrolet Onix 2020 a 2023."
+  },
+  {
+    "id": 64,
+    "nome": "Banco Dianteiro Civic 2018 á 2021 Lado Passageiro",
+    "categoria": "Acabamento",
+    "preco": 870.0,
+    "partNumber": "BANCIVP",
+    "sku": "168920",
+    "imagem": "/img/produtos/BANCIVP.png",
+    "descricao": "Banco dianteiro original, lado passageiro, compatível com Honda Civic 2018 a 2021."
+  },
+  {
+    "id": 65,
+    "nome": "Volante Multifuncional Kicks 2017 á 2020",
+    "categoria": "Acabamento",
+    "preco": 510.0,
+    "partNumber": "VOLKICK",
+    "sku": "168921",
+    "imagem": "/img/produtos/VOLKICK.png",
+    "descricao": "Volante multifuncional original, compatível com Nissan Kicks 2017 a 2020."
+  },
+  {
+    "id": 66,
+    "nome": "Painel de Instrumentos Duster 2016 á 2019",
+    "categoria": "Acabamento",
+    "preco": 680.0,
+    "partNumber": "PIDUST",
+    "sku": "168922",
+    "imagem": "/img/produtos/PIDUST.png",
+    "descricao": "Painel de instrumentos original, compatível com Renault Duster 2016 a 2019."
+  },
+  {
+    "id": 67,
+    "nome": "Console Central Toro 2019 á 2022",
+    "categoria": "Acabamento",
+    "preco": 730.0,
+    "partNumber": "CCTORO",
+    "sku": "168923",
+    "imagem": "/img/produtos/CCTORO.png",
+    "descricao": "Console central original, compatível com Fiat Toro 2019 a 2022."
+  },
+  {
+    "id": 68, 
+    "nome": "Manete de Câmbio Ford Ka 2018 á 2021",
+    "categoria": "Acabamento",
+    "preco": 210.0,
+    "partNumber": "MCFKA",
+    "sku": "168924",
+    "imagem": "/img/produtos/MCFKA.png",
+    "descricao": "Manete de câmbio original, compatível com Ford Ka 2018 a 2021."
+    },
+  {
+    "id": 69,
+    "nome": "Câmbio Automático 8 Marchas Compass 2.0 Diesel 2017 á 2021",
+    "categoria": "Transmissão",
+    "preco": 13990.0,
+    "partNumber": "AUT8COMP",
+    "sku": "168925",
+    "imagem": "/img/produtos/cambio-compass.png",
+    "descricao": "Câmbio automático de 8 marchas, revisado, compatível com Jeep Compass 2.0 Diesel 2017 a 2021."
+  },
+  {
+    "id": 70,
+    "nome": "Câmbio Manual 5 Marchas Hb20 1.0 2014 á 2019",
+    "categoria": "Transmissão",
+    "preco": 3890.0,
+    "partNumber": "MAN5HB20",
+    "sku": "168926",
+    "imagem": "/img/produtos/cambio-hb20.png",
+    "descricao": "Câmbio manual de 5 marchas, compatível com Hyundai HB20 1.0 2014 a 2019."
+  },
+  {
+    "id": 71,
+    "nome": "Câmbio Automático Cvt Tcross Tsi 1.4 2019 á 2023",
+    "categoria": "Transmissão",
+    "preco": 11890.0,
+    "partNumber": "CVTTCROSS",
+    "sku": "168927",
+    "imagem": "/img/produtos/cambio-tcross.png",
+    "descricao": "Câmbio automático CVT revisado, compatível com Volkswagen T-Cross TSI 1.4 2019 a 2023."
+  },
+  {
+    "id": 72,
+    "nome": "Câmbio Automatizado Ix35 2.0 Flex 2013 á 2018",
+    "categoria": "Transmissão",
+    "preco": 8990.0,
+    "partNumber": "AUTZIX35",
+    "sku": "168928",
+    "imagem": "/img/produtos/cambio-ix35.png",
+    "descricao": "Câmbio automatizado, compatível com Hyundai Ix35 2.0 Flex 2013 a 2018."
+  },
+  {
+    "id": 73,
+    "nome": "Câmbio Manual 6 Marchas Jetta Gli 2.0 Turbo 2022 á 2024",
+    "categoria": "Transmissão",
+    "preco": 9990.0,
+    "partNumber": "MAN6JGLI",
+    "sku": "168929",
+    "imagem": "/img/produtos/cambio-jetta.png",
+    "descricao": "Câmbio manual de 6 marchas, compatível com Volkswagen Jetta GLI 2.0 Turbo 2022 a 2024."
+  },
+  {
+    "id": 74,
+    "nome": "Câmbio Automático Multitronic Audi A3 2.0 2018 á 2022",
+    "categoria": "Transmissão",
+    "preco": 17490.0,
+    "partNumber": "MULTA3",
+    "sku": "168930",
+    "imagem": "/img/produtos/cambio-a3.png",
+    "descricao": "Câmbio automático Multitronic, revisado, compatível com Audi A3 2.0 2018 a 2022."
+  },
+  {
+    "id": 75,
+    "nome": "Câmbio Manual 5 Marchas Ka 1.5 2018 á 2021",
+    "categoria": "Transmissão",
+    "preco": 4290.0,
+    "partNumber": "MAN5FKA",
+    "sku": "168931",
+    "imagem": "/img/produtos/cambio-ka.png",
+    "descricao": "Câmbio manual de 5 marchas, compatível com Ford Ka 1.5 2018 a 2021."
+  },
+  {
+    "id": 76,
+    "nome": "Câmbio Automático Onix 1.0 Turbo 2020 á 2023",
+    "categoria": "Transmissão",
+    "preco": 9890.0,
+    "partNumber": "CVTONIX",
+    "sku": "168932",
+    "imagem": "/img/produtos/cambio-onix.png",
+    "descricao": "Câmbio automátisco CVT revisado, compatível com Chevrolet Onix 1.0 Turbo 2020 a 2023."
+  },
+  {
+    "id": 77,
+    "nome": "Câmbio Manual 5 Marchas Kicks 1.6 2017 á 2020",
+    "categoria": "Transmissão",
+    "preco": 5290.0,
+    "partNumber": "MAN5KICK",
+    "sku": "168933",
+    "imagem": "/img/produtos/cambio-kicks.png",
+    "descricao": "Câmbio manual de 5 marchas, compatível com Nissan Kicks 1.6 2017 a 2020."
+  },
+  {
+    "id": 78,
+    "nome": "Câmbio Automático 7 Marchas Toro Diesel 2019 á 2022",
+    "categoria": "Transmissão",
+    "preco": 16490.0,
+    "partNumber": "AUT7TORO",
+    "sku": "168934",
+    "imagem": "/img/produtos/cambio-toro.png",
+    "descricao": "Câmbio automático de 7 marchas, revisado, compatível com Fiat Toro Diesel 2019 a 2022."
+  },
+  {
+    "id": 79,
+    "nome": "Câmbio Manual 6 Marchas Duster 1.6 2016 á 2019",
+    "categoria": "Transmissão",
+    "preco": 5490.0,
+    "partNumber": "MAN6DUST",
+    "sku": "168935",
+    "imagem": "/img/produtos/cambio-duster.png",
+    "descricao": "Câmbio manual de 6 marchas, compatível com Renault Duster 1.6 2016 a 2019."
+  },
+  {
+    "id": 80,
+    "nome": "Câmbio Automático Cvt Civic 2.0 2018 á 2021",
+    "categoria": "Transmissão",
+    "preco": 12990.0,
+    "partNumber": "CVTCIVIC",
+    "sku": "168936",
+    "imagem": "/img/produtos/cambio-civic.png",
+    "descricao": "Câmbio automático CVT revisado, compatível com Honda Civic 2.0 2018 a 2021."
+  },
+  [
+  {
+    "id": 81,
+    "nome": "Diferencial Traseiro Jeep Renegade 2016 á 2021",
+    "categoria": "Transmissão",
+    "preco": 3890.0,
+    "partNumber": "DIFRENEG",
+    "sku": "168937",
+    "imagem": "/img/produtos/DIFRENEG.png",
+    "descricao": "Diferencial traseiro revisado, compatível com Jeep Renegade 2016 a 2021."
+  },
+  {
+    "id": 82,
+    "nome": "Diferencial Dianteiro Fiat Strada 1.4 2018 á 2022",
+    "categoria": "Transmissão",
+    "preco": 2790.0,
+    "partNumber": "DIFSTRADA",
+    "sku": "168938",
+    "imagem": "/img/produtos/DIFSTRADA.png",
+    "descricao": "Diferencial dianteiro em bom estado, compatível com Fiat Strada 1.4 2018 a 2022."
+  },
+  {
+    "id": 83,
+    "nome": "Turbina Chevrolet Tracker 1.0 Turbo 2020 á 2023",
+    "categoria": "Motor",
+    "preco": 3290.0,
+    "partNumber": "TURBOTRACK",
+    "sku": "168939",
+    "imagem": "/img/produtos/TURBOTRACK.png",
+    "descricao": "Turbina original, testada, compatível com Chevrolet Tracker 1.0 Turbo 2020 a 2023."
+  },
+  {
+    "id": 84,
+    "nome": "Turbina Volkswagen Polo Tsi 1.0 2018 á 2022",
+    "categoria": "Motor",
+    "preco": 3190.0,
+    "partNumber": "TURBOPOLO",
+    "sku": "168940",
+    "imagem": "/img/produtos/TURBOPOLO.png",
+    "descricao": "Turbina original, revisada, compatível com Volkswagen Polo TSI 1.0 2018 a 2022."
+  },
+  {
+    "id": 85,
+    "nome": "Radiador Fiat Argo 1.3 2018 á 2022",
+    "categoria": "Arrefecimento",
+    "preco": 590.0,
+    "partNumber": "RADARGO",
+    "sku": "168941",
+    "imagem": "/img/produtos/RADARGO.png",
+    "descricao": "Radiador original em ótimo estado, compatível com Fiat Argo 1.3 2018 a 2022."
+  },
+  {
+    "id": 86,
+    "nome": "Radiador Honda Hr-v 1.8 2015 á 2021",
+    "categoria": "Arrefecimento",
+    "preco": 650.0,
+    "partNumber": "RADHRV",
+    "sku": "168942",
+    "imagem": "/img/produtos/RADHRV.png",
+    "descricao": "Radiador original, compatível com Honda HR-V 1.8 2015 a 2021."
+  },
+  {
+    "id": 87,
+    "nome": "Eletroventilador Chevrolet Onix 1.0 2015 á 2019",
+    "categoria": "Arrefecimento",
+    "preco": 420.0,
+    "partNumber": "ELETONIX",
+    "sku": "168943",
+    "imagem": "/img/produtos/ELETONIX.png",
+    "descricao": "Eletroventilador original, testado, compatível com Chevrolet Onix 1.0 2015 a 2019."
+  },
+  {
+    "id": 88,
+    "nome": "Condensador de Ar Condicionado Hyundai Hb20 1.0 2014 á 2019",
+    "categoria": "Ar-condicionado",
+    "preco": 480.0,
+    "partNumber": "CONDHB20",
+    "sku": "168944",
+    "imagem": "/img/produtos/CONDHB20.png",
+    "descricao": "Condensador de ar-condicionado original, compatível com Hyundai HB20 1.0 2014 a 2019."
+  },
+  {
+    "id": 89,
+    "nome": "Compressor de Ar Condicionado Jeep Renegade 1.8 2016 á 2021",
+    "categoria": "Ar-condicionado",
+    "preco": 980.0,
+    "partNumber": "COMPRENEG",
+    "sku": "168945",
+    "imagem": "/img/produtos/COMPRENEG.png",
+    "descricao": "Compressor de ar-condicionado original, testado, compatível com Jeep Renegade 1.8 2016 a 2021."
+  },
+  {
+    "id": 90,
+    "nome": "Compressor de Ar Condicionado Toyota Corolla 2.0 2018 á 2022",
+    "categoria": "Ar-condicionado",
+    "preco": 1050.0,
+    "partNumber": "COMPCOROLLA",
+    "sku": "168946",
+    "imagem": "/img/produtos/COMPCOROLLA.png",
+    "descricao": "Compressor de ar-condicionado original, compatível com Toyota Corolla 2.0 2018 a 2022."
+  },
+  {
+    "id": 91,
+    "nome": "Semieixo Dianteiro Direito Volkswagen Polo 1.0 2018 á 2022",
+    "categoria": "Transmissão",
+    "preco": 590.0,
+    "partNumber": "SEMIPOLO",
+    "sku": "168947",
+    "imagem": "/img/produtos/SEMIPOLO.png",
+    "descricao": "Semieixo dianteiro direito original, compatível com Volkswagen Polo 1.0 2018 a 2022."
+  },
+  {
+    "id": 92,
+    "nome": "Homocinética Fiat Argo 1.3 2018 á 2022",
+    "categoria": "Transmissão",
+    "preco": 350.0,
+    "partNumber": "HOMOARGO",
+    "sku": "168948",
+    "imagem": "/img/produtos/HOMOARGO.png",
+    "descricao": "Homocinética original, compatível com Fiat Argo 1.3 2018 a 2022."
+  },
+  {
+    "id": 93,
+    "nome": "Cubo de Roda Dianteiro Chevrolet Tracker 1.0 2020 á 2023",
+    "categoria": "Suspensão",
+    "preco": 480.0,
+    "partNumber": "CUBOTRACK",
+    "sku": "168949",
+    "imagem": "/img/produtos/CUBOTRACK.png",
+    "descricao": "Cubo de roda dianteiro original com rolamento, compatível com Chevrolet Tracker 1.0 2020 a 2023."
+  },
+  {
+    "id": 94,
+    "nome": "Bandeja de Suspensão Dianteira Honda Hr-v 1.8 2015 á 2021",
+    "categoria": "Suspensão",
+    "preco": 390.0,
+    "partNumber": "BANDHRV",
+    "sku": "168950",
+    "imagem": "/img/produtos/BANDHRV.png",
+    "descricao": "Bandeja de suspensão dianteira original, compatível com Honda HR-V 1.8 2015 a 2021."
+  },
+  {
+    "id": 95,
+    "nome": "Amortecedor Dianteiro Fiat Strada 1.4 2018 á 2022",
+    "categoria": "Suspensão",
+    "preco": 320.0,
+    "partNumber": "AMORTSTRADA",
+    "sku": "168951",
+    "imagem": "/img/produtos/AMORTSTRADA.png",
+    "descricao": "Amortecedor dianteiro original, compatível com Fiat Strada 1.4 2018 a 2022."
+  },
+  {
+    "id": 96,
+    "nome": "Mola Helicoidal Traseira Jeep Renegade 2016 á 2021",
+    "categoria": "Suspensão",
+    "preco": 280.0,
+    "partNumber": "MOLARENEG",
+    "sku": "168952",
+    "imagem": "/img/produtos/MOLARENEG.png",
+    "descricao": "Mola helicoidal traseira original, compatível com Jeep Renegade 2016 a 2021."
+  },
+  {
+    "id": 97,
+    "nome": "Bieleta Dianteira Volkswagen T-cross Tsi 1.4 2019 á 2023",
+    "categoria": "Suspensão",
+    "preco": 120.0,
+    "partNumber": "BIELTCROSS",
+    "sku": "168953",
+    "imagem": "/img/produtos/BIELTCROSS.png",
+    "descricao": "Bieleta dianteira original, compatível com Volkswagen T-Cross TSI 1.4 2019 a 2023."
+  },
+  {
+    "id": 98,
+    "nome": "Caixa de Direção Chevrolet Onix 1.0 2015 á 2019",
+    "categoria": "Direção",
+    "preco": 890.0,
+    "partNumber": "CDONIX",
+    "sku": "168954",
+    "imagem": "/img/produtos/CDONIX.png",
+    "descricao": "Caixa de direção original, testada, compatível com Chevrolet Onix 1.0 2015 a 2019."
+  },
+  {
+    "id": 99,
+    "nome": "Bomba de Direção Hidráulica Toyota Corolla 1.8 2010 á 2014",
+    "categoria": "Direção",
+    "preco": 690.0,
+    "partNumber": "BDHCOROLLA",
+    "sku": "168955",
+    "imagem": "/img/produtos/BDHCOROLLA.png",
+    "descricao": "Bomba de direção hidráulica original, compatível com Toyota Corolla 1.8 2010 a 2014."
+  },
+  {
+    "id": 100,
+    "nome": "Pinça de Freio Dianteira Honda Hr-v 1.8 2015 á 2021",
+    "categoria": "Freios",
+    "preco": 380.0,
+    "partNumber": "PINCAHRV",
+    "sku": "168956",
+    "imagem": "/img/produtos/CFABSKA.png",
+    "descricao": "Pinça de freio dianteira original, compatível com Honda HR-V 1.8 2015 a 2021."
+  },
+  {
+    "id": 101,
+    "nome": "Disco de Freio Dianteiro Fiat Argo 1.3 2018 á 2022",
+    "categoria": "Freios",
+    "preco": 250.0,
+    "partNumber": "DISCARGO",
+    "sku": "168957",
+    "imagem": "/img/produtos/CFABSKA.png",
+    "descricao": "Disco de freio dianteiro ventilado, compatível com Fiat Argo 1.3 2018 a 2022."
+  },
+  {
+    "id": 102,
+    "nome": "Módulo Central de Freios Abs Volkswagen Polo 1.0 2018 á 2022",
+    "categoria": "Módulos",
+    "preco": 1490.0,
+    "partNumber": "MODABSPOLO",
+    "sku": "168958",
+    "imagem": "/img/produtos/CFABSKA.png",
+    "descricao": "Módulo central de freios ABS original, compatível com Volkswagen Polo 1.0 2018 a 2022."
+  },
+  {
+    "id": 103,
+    "nome": "Módulo de Injeção Eletrônica (ECU) Chevrolet Tracker 1.0 Turbo",
+    "categoria": "Módulos",
+    "preco": 1690.0,
+    "partNumber": "ECUTRACK",
+    "sku": "168959",
+    "imagem": "/img/produtos/MIEONIT.png",
+    "descricao": "Módulo de injeção eletrônica (ECU) original, compatível com Chevrolet Tracker 1.0 Turbo."
+  },
+  {
+    "id": 104,
+    "nome": "Painel de Instrumentos Jeep Renegade 2016 á 2021",
+    "categoria": "Acabamento",
+    "preco": 720.0,
+    "partNumber": "PIRENEG",
+    "sku": "168960",
+    "imagem": "/img/produtos/PIDUST.png",
+    "descricao": "Painel de instrumentos original, compatível com Jeep Renegade 2016 a 2021."
+  },
+  {
+    "id": 105,
+    "nome": "Chicote Elétrico Motor Honda Hr-v 1.8",
+    "categoria": "Elétrica",
+    "preco": 830.0,
+    "partNumber": "CHHRV18",
+    "sku": "168961",
+    "imagem": "/img/produtos/chicote-corolla.png",
+    "descricao": "Chicote elétrico completo do motor, compatível com Honda HR-V 1.8."
+  },
+  {
+    "id": 106,
+    "nome": "Módulo de Airbag Fiat Strada 1.4 2018 á 2022",
+    "categoria": "Módulos",
+    "preco": 1990.0,
+    "partNumber": "MODAIRSTRADA",
+    "sku": "168962",
+    "imagem": "/img/produtos/MODAIRT.png",
+    "descricao": "Módulo de airbag original, compatível com Fiat Strada 1.4 2018 a 2022."
+  },
+  {
+    "id": 107,
+    "nome": "Cinto de Segurança Dianteiro Volkswagen T-cross 2019 á 2023",
+    "categoria": "Módulos",
+    "preco": 290.0,
+    "partNumber": "CINTOTCROSS",
+    "sku": "168963",
+    "imagem": "/img/produtos/CINTOTCROSS.png",
+    "descricao": "Cinto de segurança dianteiro original, compatível com Volkswagen T-Cross 2019 a 2023."
+  },
+  {
+    "id": 108,
+    "nome": "Banco Dianteiro Chevrolet Onix 2020 á 2023 Lado Motorista",
+    "categoria": "Acabamento",
+    "preco": 850.0,
+    "partNumber": "BANONIXM",
+    "sku": "168964",
+    "imagem": "/img/produtos/BC2020.png",
+    "descricao": "Banco dianteiro original, lado motorista, compatível com Chevrolet Onix 2020 a 2023."
+  },
+  {
+    "id": 109,
+    "nome": "Volante Multifuncional Jeep Renegade 2016 á 2021",
+    "categoria": "Acabamento",
+    "preco": 560.0,
+    "partNumber": "VOLRENEG",
+    "sku": "168965",
+    "imagem": "/img/produtos/VOLKICK.png",
+    "descricao": "Volante multifuncional original, compatível com Jeep Renegade 2016 a 2021."
+  },
+  {
+    "id": 110,
+    "nome": "Console Central Honda Hr-v 1.8 2015 á 2021",
+    "categoria": "Acabamento",
+    "preco": 690.0,
+    "partNumber": "CCHRV",
+    "sku": "168966",
+    "imagem": "/img/produtos/CCTORO.png",
+    "descricao": "Console central original, compatível com Honda HR-V 1.8 2015 a 2021."
+  },
+  {
+    "id": 111,
+    "nome": "Maçaneta Externa Dianteira Direita Fiat Argo 1.3 2018 á 2022",
+    "categoria": "Carroceria",
+    "preco": 180.0,
+    "partNumber": "MACARGO",
+    "sku": "168967",
+    "imagem": "/img/produtos/MACARGO.png",
+    "descricao": "Maçaneta externa dianteira direita original, compatível com Fiat Argo 1.3 2018 a 2022."
+  },
+  {
+    "id": 112,
+    "nome": "Vidro Elétrico (Máquina) Dianteiro Volkswagen Polo 1.0 2018 á 2022",
+    "categoria": "Elétrica",
+    "preco": 360.0,
+    "partNumber": "MVEPOLO",
+    "sku": "168968",
+    "imagem": "/img/produtos/vidro-onix.png",
+    "descricao": "Máquina de vidro elétrico dianteira original, compatível com Volkswagen Polo 1.0 2018 a 2022."
+  },
+  {
+    "id": 113,
+    "nome": "Limpador de Para-brisa com Braço Chevrolet Tracker 1.0 2020 á 2023",
+    "categoria": "Elétrica",
+    "preco": 210.0,
+    "partNumber": "LIMPTRACK",
+    "sku": "168969",
+    "imagem": "/img/produtos/LIMPTRACK.png",
+    "descricao": "Conjunto limpador de para-brisa com braço, compatível com Chevrolet Tracker 1.0 2020 a 2023."
+  },
+  {
+    "id": 114,
+    "nome": "Tanque de Combustível Fiat Strada 1.4 2018 á 2022",
+    "categoria": "Combustível",
+    "preco": 690.0,
+    "partNumber": "TANQSTRADA",
+    "sku": "168970",
+    "imagem": "/img/produtos/TANQSTRADA.png",
+    "descricao": "Tanque de combustível original, sem amassados, compatível com Fiat Strada 1.4 2018 a 2022."
+  },
+  {
+    "id": 115,
+    "nome": "Bomba de Combustível Toyota Corolla 2.0 2018 á 2022",
+    "categoria": "Combustível",
+    "preco": 420.0,
+    "partNumber": "BCOMBCOROLLA",
+    "sku": "168971",
+    "imagem": "/img/produtos/BCOMBCOROLLA.png",
+    "descricao": "Bomba de combustível elétrica original, compatível com Toyota Corolla 2.0 2018 a 2022."
+  },
+  {
+    "id": 116,
+    "nome": "Escapamento Completo Honda Hr-v 1.8 2015 á 2021",
+    "categoria": "Escapamento",
+    "preco": 890.0,
+    "partNumber": "ESCHRV",
+    "sku": "168972",
+    "imagem": "/img/produtos/ESCHRV.png",
+    "descricao": "Sistema de escapamento completo, compatível com Honda HR-V 1.8 2015 a 2021."
+  },
+  {
+    "id": 117,
+    "nome": "Catalisador Volkswagen Polo Tsi 1.0 2018 á 2022",
+    "categoria": "Escapamento",
+    "preco": 1290.0,
+    "partNumber": "CATPOLO",
+    "sku": "168973",
+    "imagem": "/img/produtos/placeholder.png",
+    "descricao": "Catalisador original, compatível com Volkswagen Polo TSI 1.0 2018 a 2022."
+  },
+  {
+    "id": 118,
+    "nome": "Coletor de Admissão Chevrolet Onix 1.0 Turbo 2020 á 2023",
+    "categoria": "Motor",
+    "preco": 480.0,
+    "partNumber": "COLADMONIX",
+    "sku": "168974",
+    "imagem": "/img/produtos/COLADMONIX.png",
+    "descricao": "Coletor de admissão original, compatível com Chevrolet Onix 1.0 Turbo 2020 a 2023."
+  },
+  {
+    "id": 119,
+    "nome": "Coletor de Escape Jeep Renegade 1.8 2016 á 2021",
+    "categoria": "Motor",
+    "preco": 560.0,
+    "partNumber": "COLESCRENEG",
+    "sku": "168975",
+    "imagem": "/img/produtos/COLESCRENEG.png",
+    "descricao": "Coletor de escape original, compatível com Jeep Renegade 1.8 2016 a 2021."
+  },
+  {
+    "id": 120,
+    "nome": "Bobina de Ignição Fiat Argo 1.3 2018 á 2022",
+    "categoria": "Motor",
+    "preco": 150.0,
+    "partNumber": "BOBARGO",
+    "sku": "168976",
+    "imagem": "/img/produtos/BOBARGO.png",
+    "descricao": "Bobina de ignição original, compatível com Fiat Argo 1.3 2018 a 2022."
+  },
+  {
+    "id": 121,
+    "nome": "Corpo de Borboleta Honda Hr-v 1.8 2015 á 2021",
+    "categoria": "Motor",
+    "preco": 690.0,
+    "partNumber": "CORPHRV",
+    "sku": "168977",
+    "imagem": "/img/produtos/CORPHRV.png",
+    "descricao": "Corpo de borboleta eletrônico original, compatível com Honda HR-V 1.8 2015 a 2021."
+  },
+  {
+    "id": 122,
+    "nome": "Bateria 45ah Moura Selada Original",
+    "categoria": "Elétrica",
+    "preco": 439.9,
+    "partNumber": "BAT45AH",
+    "sku": "168978",
+    "imagem": "/img/produtos/bateria-moura.png",
+    "descricao": "Bateria automotiva Moura selada de 45 amperes, ideal para veículos compactos e populares."
+  },
+  {
+    "id": 123,
+    "nome": "Bateria 50ah Moura Selada Original",
+    "categoria": "Elétrica",
+    "preco": 479.9,
+    "partNumber": "BAT50AH",
+    "sku": "168979",
+    "imagem": "/img/produtos/bateria-moura.png",
+    "descricao": "Bateria automotiva Moura selada de 50 amperes, indicada para carros de passeio com baixo consumo elétrico."
+  },
+  {
+    "id": 124,
+    "nome": "Bateria 75ah Moura Selada Original",
+    "categoria": "Elétrica",
+    "preco": 659.9,
+    "partNumber": "BAT75AH",
+    "sku": "168980",
+    "imagem": "/img/produtos/bateria-moura.png",
+    "descricao": "Bateria automotiva Moura selada de 75 amperes, indicada para SUVs e picapes com maior demanda elétrica."
+  },
+  {
+    "id": 125,
+    "nome": "Bateria 90ah Moura Selada Original",
+    "categoria": "Elétrica",
+    "preco": 799.9,
+    "partNumber": "BAT90AH",
+    "sku": "168981",
+    "imagem": "/img/produtos/bateria-moura.png",
+    "descricao": "Bateria automotiva Moura selada de 90 amperes, indicada para veículos diesel e utilitários de maior porte."
+  }
+]
+]
+  

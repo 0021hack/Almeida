@@ -1,0 +1,11 @@
+{
+  "name": "almeida-autopecas-desmanche",
+  "version": "1.0.0",
+  "description": "Site de auto peças (projeto de faculdade) inspirado no Almeida Autopeças e Desmanche, feito em Node.js puro (sem frameworks), HTML e CSS.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
